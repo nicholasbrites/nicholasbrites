@@ -20,6 +20,7 @@
     <img align="center" height="30" width="40" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img align="center" height="30" width="40" alt="github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
     <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
    </div>
     
