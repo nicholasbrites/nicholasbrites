@@ -19,19 +19,20 @@
     <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="30" width="40" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: nickbrites1@gmail.com">
-      <img width="35" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
-    </a>
     <a href = "https://www.linkedin.com/in/nicholas-brites-73b92121a/">
       <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
     </a>
     <a href = "https://www.instagram.com/nicholasbrites/">
       <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png">
+    </a>
+    <a href = "mailto: nickbrites1@gmail.com">
+      <img width="35" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
     </a>
     <a href = "https://wa.me/5515991580064">
       <img width="35" src="https://logopng.com.br/logos/whatsapp-33.png">
